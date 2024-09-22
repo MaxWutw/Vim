@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/max/.vim/plugged'
+let g:netrw_dirhist_4='/Users/max/Documents/codebook/.github/workflows'
+let g:netrw_dirhist_3='/Users/max/Documents/practice/foo'
+let g:netrw_dirhist_2='/Users/max/Documents/python/test.py'
+let g:netrw_dirhist_1='/Users/max/Documents/C++_C/.git'
